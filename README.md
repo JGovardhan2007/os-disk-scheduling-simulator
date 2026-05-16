@@ -1,6 +1,6 @@
 # OS Disk Scheduling Algorithm Simulator
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/JGovardhan2007/os-disk-scheduling-simulator/blob/main/disk_scheduler.py)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/gist/JGovardhan2007/adaf6e1f41cf14039ef333e80f54fd33)
 
 An interactive, browser-based simulator built for an **Operating Systems** course project. This application utilizes Google Colab, `ipywidgets`, and Matplotlib to visualize how different disk scheduling algorithms handle an I/O request queue, charting the disk head's path and calculating the **Total Head Movement (Cylinder Seek Distance)** dynamically.
 
@@ -22,9 +22,8 @@ You do not need to install anything on your local computer to run this project!
 
 1. Click the **Open In Colab** badge at the top of this README.
 2. Once the notebook opens in Google Colab, click the **Connect** button in the top right corner.
-3. Click the **Play** button on the first cell to install the required system video tools (`!apt-get install ffmpeg`).
-4. Click the **Play** button on the main code cell.
-5. The **Disk Scheduler Configuration Panel** will appear directly below the cell.
+3. Click the **Play** button on the code cell to execute the application. (It will automatically verify and load your environment requirements).
+4. The **Disk Scheduler Configuration Panel** will appear directly below the cell output.
 
 ## 📊 How to Use It
 
