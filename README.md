@@ -1,6 +1,7 @@
 # OS Disk Scheduling Algorithm Simulator
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/gist/JGovardhan2007/adaf6e1f41cf14039ef333e80f54fd33)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/JGovardhan2007/os-disk-scheduling-simulator/blob/main/disk_scheduler.ipynb)
+
 
 An interactive, browser-based simulator built for an **Operating Systems** course project. This application utilizes Google Colab, `ipywidgets`, and Matplotlib to visualize how different disk scheduling algorithms handle an I/O request queue, charting the disk head's path and calculating the **Total Head Movement (Cylinder Seek Distance)** dynamically.
 
